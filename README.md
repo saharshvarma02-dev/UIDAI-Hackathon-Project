@@ -30,11 +30,11 @@ Pre age 15 outreach through educational institutions
 District level monitoring of biometric update preparedness
 
 ## Tech Stack
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+-Python
+-Pandas
+-Matplotlib
+-Seaborn
+-Jupyter Notebook
 
 ## Output
 District level preparedness scores
